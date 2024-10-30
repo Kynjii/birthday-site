@@ -63,7 +63,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("https://giphy.com/clips/theoffice-the-office-peacock-tv-show-bq1PRO9CLPHmURBvv2");
+    background-image: url("https://media.giphy.com/media/azaMjwRFm0vjNSd51t/giphy.gif?cid=790b7611twucgjcd681kzifuocz0s6kkrauxrj0vm6v3nkrx&ep=v1_gifs_search&rid=giphy.gif&ct=g");
 }
 
 #gift-img-hot:hover {
@@ -71,7 +71,9 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-genius:hover {
-    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEwc24xeWNwanA1ajAwYjg4NzV4bDNvbG1nZ3Joa2VsZnB5Zms1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xr9ZKY1wbbJXDW/giphy.gif");
+    background-image: url("https://media.giphy.com/media/3W6aGDoIvuE4GyGOcj/giphy.gif?cid=790b7611tidgfe4aead3sbd4iyne45v2lk8itmjryej2oqgb&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #gift-img-badass:hover {
