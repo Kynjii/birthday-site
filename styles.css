@@ -63,23 +63,23 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("https://giphy.com/clips/theoffice-the-office-peacock-tv-show-bq1PRO9CLPHmURBvv2");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ6cHBrdW5kcW9ldjhya255czFidTlvcGlydDFraWhwZHByZmE1NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckB5razpgN2rd4qTfe/giphy.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEwc24xeWNwanA1ajAwYjg4NzV4bDNvbG1nZ3Joa2VsZnB5Zms1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o85xr9ZKY1wbbJXDW/giphy.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("https://64.media.tumblr.com/tumblr_lxsuuctxIW1qg6rkio1_500.gifv");
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFmMTduaXUydWx2ejZlYnk3MDZ6YzZwcG80cnhnMTM4NmhpcXN5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7qZ3ZX1Gu3TZm/giphy.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMngxNWl0a3ExbHZnZTM4bnphZDF2anQ2OHB2aWVrcTE4c3FsMzQxbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10bHcDcPM925ry/giphy.gif");
 }
 
 #footer {
